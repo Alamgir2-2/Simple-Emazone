@@ -9,3 +9,7 @@
     grid-template-columns: repeat(3, 1fr);
     gap: 45px;
 }
+.cart-container{
+    margin-top: 50px;
+    margin-right: 20px;
+}
